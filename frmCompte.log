@@ -1,0 +1,40 @@
+Ligne 73: La classe MSComCtl2.DTPicker du contrôle DTPicker1 n'est pas une classe de contrôle chargée.
+Ligne 152: La classe MSAdodcLib.Adodc du contrôle Adodc1 n'est pas une classe de contrôle chargée.
+Ligne 301: La classe MSComCtl2.DTPicker du contrôle DTPicker2 n'est pas une classe de contrôle chargée.
+Ligne 79: Le nom de la propriété _ExtentX dans DTPicker1 est incorrect.
+Ligne 80: Le nom de la propriété _ExtentY dans DTPicker1 est incorrect.
+Ligne 81: Le nom de la propriété _Version dans DTPicker1 est incorrect.
+Ligne 91: Le nom de la propriété Format dans DTPicker1 est incorrect.
+Ligne 92: Le nom de la propriété CurrentDate dans DTPicker1 est incorrect.
+Ligne 158: Le nom de la propriété _ExtentX dans Adodc1 est incorrect.
+Ligne 159: Le nom de la propriété _ExtentY dans Adodc1 est incorrect.
+Ligne 160: Le nom de la propriété ConnectMode dans Adodc1 est incorrect.
+Ligne 161: Le nom de la propriété CursorLocation dans Adodc1 est incorrect.
+Ligne 162: Le nom de la propriété IsolationLevel dans Adodc1 est incorrect.
+Ligne 163: Le nom de la propriété ConnectionTimeout dans Adodc1 est incorrect.
+Ligne 164: Le nom de la propriété CommandTimeout dans Adodc1 est incorrect.
+Ligne 165: Le nom de la propriété CursorType dans Adodc1 est incorrect.
+Ligne 166: Le nom de la propriété LockType dans Adodc1 est incorrect.
+Ligne 167: Le nom de la propriété CommandType dans Adodc1 est incorrect.
+Ligne 168: Le nom de la propriété CursorOptions dans Adodc1 est incorrect.
+Ligne 169: Le nom de la propriété CacheSize dans Adodc1 est incorrect.
+Ligne 170: Le nom de la propriété MaxRecords dans Adodc1 est incorrect.
+Ligne 171: Le nom de la propriété BOFAction dans Adodc1 est incorrect.
+Ligne 172: Le nom de la propriété EOFAction dans Adodc1 est incorrect.
+Ligne 173: Le nom de la propriété ConnectStringType dans Adodc1 est incorrect.
+Ligne 177: Le nom de la propriété Orientation dans Adodc1 est incorrect.
+Ligne 179: Le nom de la propriété Connect dans Adodc1 est incorrect.
+Ligne 180: Le nom de la propriété OLEDBString dans Adodc1 est incorrect.
+Ligne 181: Le nom de la propriété OLEDBFile dans Adodc1 est incorrect.
+Ligne 182: Le nom de la propriété DataSourceName dans Adodc1 est incorrect.
+Ligne 183: Le nom de la propriété OtherAttributes dans Adodc1 est incorrect.
+Ligne 184: Le nom de la propriété UserName dans Adodc1 est incorrect.
+Ligne 185: Le nom de la propriété Password dans Adodc1 est incorrect.
+Ligne 186: Le nom de la propriété RecordSource dans Adodc1 est incorrect.
+Ligne 187: Le nom de la propriété Caption dans Adodc1 est incorrect.
+Ligne 197: Le nom de la propriété _Version dans Adodc1 est incorrect.
+Ligne 307: Le nom de la propriété _ExtentX dans DTPicker2 est incorrect.
+Ligne 308: Le nom de la propriété _ExtentY dans DTPicker2 est incorrect.
+Ligne 309: Le nom de la propriété _Version dans DTPicker2 est incorrect.
+Ligne 319: Le nom de la propriété Format dans DTPicker2 est incorrect.
+Ligne 320: Le nom de la propriété CurrentDate dans DTPicker2 est incorrect.
